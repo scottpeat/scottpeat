@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Scott</h1>
-<h3 align="center">A friendly and passionate Front-end Developer from England.</h3>
+<h1 align="center">Hello 👋, I'm Scott</h1>
+<h3 align="center">A friendly and passionate Civil Servant from England who wants to transition into Web Development.</h3>
 
-- 🔭 I’m currently working on [Forkify](https://github.com/scottpeat/forkify)
+- 🔭 I’m currently working on [Flow Domain Name Service](https://github.com/scottpeat/flow-name-service)
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **React, Solidity and Cadence**
 
 - 💬 Ask me about **React, Web 3.0 and Gaming**
 
