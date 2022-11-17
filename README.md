@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Scott</h1>
 <h3 align="center">A friendly and passionate Civil Servant from England who wants to transition into Web Development.</h3>
 
-- 🔭 I’m currently working on [Flow Domain Name Service](https://github.com/scottpeat/flow-name-service)
+- 🔭 I’m currently working on [Flow Domain Name Service](https://github.com/scottpeat/flow-name-service) developed in Flow Cadence Programming Language.
 
 - 🌱 I’m currently learning **React, Solidity and Cadence**
 
