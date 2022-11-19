@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Web 3.0 and Gaming**
 
-- 📫 Business related and Job Opportunities only please email: **scottpeatweb@gmail.com**
+- 📫 Business related queries and Job Opportunities only please email: **scottpeatweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
