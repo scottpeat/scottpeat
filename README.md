@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Scott</h1>
+<h1 align="center">Hi 👋, I'm Scott</h1>
 <h3 align="center">A friendly and passionate Civil Servant from England who wants to transition into Web Development.</h3>
 
 - 🔭 I’m currently working on [React - The Complete Guide] a course by Maximilian Schwarzmüller teaching core React concepts.
