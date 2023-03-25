@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Scott</h1>
-<h3 align="center">A friendly and passionate Civil Servant from England who wants to transition into Web Development.</h3>
+<h3 align="center">A friendly and passionate Civil Servant from England who wants to transition into Web3 Development.</h3>
 
 - 🔭 I’m currently working on [React - The Complete Guide] a course by Maximilian Schwarzmüller teaching React concepts & Crowdfunding Web 3.0 Web Application.
 
