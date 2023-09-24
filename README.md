@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Scott</h1>
 <h3 align="center">A friendly and passionate Civil Servant from England who wants to transition into Web3 Development.</h3>
 
-- 🔭 I’m currently working on [React - The Complete Guide] a course by Maximilian Schwarzmüller teaching React concepts.
+- 🔭 I’m currently working on [React - The Complete Guide] a course by Maximilian Schwarzmüller teaching React concepts & Alchemy University Solidity Bootcamp.
 - 💬 Ask me about **React, Web 3.0 and Gaming**
 
 - 📫 Business related queries and Job Opportunities only please email: **scottpeatweb@gmail.com**
