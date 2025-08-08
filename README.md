@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Scott</h1>
-<h3 align="center">A COmputer Science graduate who wants to make responsive DeFi applications.</h3>
+<h3 align="center">A Computer Science Graduate who wants to make responsive DeFi applications.</h3>
 
 - 🔭 I’m currently working on [React - The Complete Guide] a course by Maximilian Schwarzmüller teaching React concepts & Alchemy University Solidity Bootcamp.
 - 💬 Ask me about **React, Web 3.0 and Investing**
