@@ -2,7 +2,7 @@
 <h3 align="center">A Master's Computer Science student who wants to make responsive DeFi applications.</h3>
 
 - 🔭 I'm currently working on **[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)** by Maximilian Schwarzmüller and the **Alchemy University Solidity Bootcamp**.
-- 💬 Ask me about **React, Web 3.0 and Investing**
+- 💬 Ask me about **Cybersecurity, Python, Linux**
 - 📫 For **business related queries and Job Opportunities only**, please email: **[scottpeatweb@gmail.com](mailto:scottpeatweb@gmail.com)**
 
 ### Connect with me:
