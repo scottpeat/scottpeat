@@ -1,6 +1,10 @@
-<h1 align="center">Hello 👋, I'm Scott</h1>
-<h3 align="center">A Master's Computer Science student who wants to make responsive DeFi applications.</h3>
+# Hi, I'm Scott 👋 
 
+### 🛡️ Offensive Security Enthusiast | MSc Computer Science Candidate
+
+Highly disciplined technical professional transitioning from a 9-year Civil Service career into Cybersecurity. Currently maintaining a distinction track in an online MSc in Computer Science and leveraging daily hands-on labs to master penetration testing methodologies.
+
+---
 - 🔭 I'm currently working on **[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)** by Maximilian Schwarzmüller and the **Alchemy University Solidity Bootcamp**.
 - 💬 Ask me about **Cybersecurity, Python, Linux**
 - 📫 For **business related queries and Job Opportunities only**, please email: **[scottpeatweb@gmail.com](mailto:scottpeatweb@gmail.com)**
