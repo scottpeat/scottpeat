@@ -1,4 +1,4 @@
-# Hi, I'm Scott 'starzl33t' Peat 👋
+# Hi, I'm Scott 👋
 
 ### MSc Computer Science Student | Aspiring Cyber Security & Red Team Specialist
 
