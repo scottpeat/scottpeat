@@ -1,29 +1,53 @@
-# Hi, I'm Scott 👋 
+# Hi, I'm Scott 'starzl33t' Peat 👋
 
-### 🛡️ Offensive Security Enthusiast | MSc Computer Science Candidate
+### MSc Computer Science Student | Aspiring Cyber Security & Red Team Specialist
 
-Highly disciplined technical professional transitioning from a 9-year Civil Service career into Cybersecurity. Currently maintaining a distinction track in an online MSc in Computer Science and leveraging daily hands-on labs to master penetration testing methodologies.
+An analytical and highly disciplined technical professional transitioning a **9-year foundation in the UK Civil Service (DWP)** into advanced Cyber Security and Software Development. Currently maintaining a rigorous academic track toward an **MSc with Distinction** while engineering automated tools and tracking complex system vulnerabilities daily.
 
 ---
-- 🔭 I'm currently working on **[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)** by Maximilian Schwarzmüller and the **Alchemy University Solidity Bootcamp**.
-- 💬 Ask me about **Cybersecurity, Python, Linux**
-- 📫 For **business related queries and Job Opportunities only**, please email: **[scottpeatweb@gmail.com](mailto:scottpeatweb@gmail.com)**
 
-### Connect with me:
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/scottpeat)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scottpeatweb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scottpeat)
+## 🛡️ Current Security Objectives
+* 🎓 **MSc Computer Science** | Actively specializing in network security, smart contract vulnerabilities, and cryptographic structures.
+* ⚡ **Practical Penetration Testing** | Intensively preparing for practical offensive security certifications (PT1).
+* 🎯 **The Streak** | 190+ consecutive days of active security labs, network exploitation, and CTF rooms.
 
-### Languages and Tools:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
+## 🏗️ Technical Portfolio & Repositories
 
+### 💻 [RedTeam-Toolbox](https://github.com/scottpeat/redteam-toolbox)
+*Automated offensive and defensive tooling engineered during my MSc labs.*
+* **Featured Script:** Python-based subdomain brute-forcer and SSL validation utility.
+* **Languages:** Python, Bash, PowerShell.
 
+### 📝 [CTF-Writeups](https://github.com/scottpeat/ctf-writeups)
+*Detailed technical walkthroughs of complex TryHackMe and HackTheBox environments.*
+* **Focus Areas:** Nmap scanning methodology, active directory exploitation, and Linux/Windows privilege escalation vectors.
+* **Methodology:** Documented utilizing standard industry reporting frameworks.
 
+### 🔬 [Blockchain-Security-Research](https://github.com/scottpeat/blockchain-security-research)
+*Academic-grade research papers, cryptographic failure analyses, and smart contract vulnerability audits.*
+* **Featured Work:** A comprehensive threat model and technical analysis of IoT Healthcare patient monitoring systems (OWASP Top 10 Cryptographic Failures).
+
+---
+
+## 🏛️ Professional Foundation (Civil Service Core)
+My 9 years of tenure acting as a **Deputy Team Leader & Case Manager within the Department for Work & Pensions (DWP)** provided me with elite, non-technical security fundamentals that directly translate to enterprise technology teams:
+* **Risk & Compliance:** Managed highly complex, high-priority portfolios (up to 2,100 claims) containing sensitive, protected personal data under strict GDPR and Official-Sensitive protocols.
+* **Incident De-escalation:** Proven track record of managing high-pressure situations, managing risk independently under critical time constraints, and resolving root-cause systemic errors.
+* **Data-Driven Leadership:** Utilized Power BI analytics to monitor infrastructure workflows, identifying processing bottlenecks to optimize team output.
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+* **Languages:** Python, Bash, SQL, Markdown
+* **OS & Environments:** Linux (Kali, Arch), Windows Server, Active Directory
+* **Security & Network:** Nmap, Burp Suite, Wireshark, Metasploit, Cryptographic Hashing
+* **Data & Operations:** Power BI, Git/GitHub, Agile Frameworks
+
+---
+
+## 📊 Activity & Metrics
+
+📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/scottpeat/) | [Email](mailto:scottpeatweb@gmail.com)
