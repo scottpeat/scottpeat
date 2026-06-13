@@ -9,7 +9,7 @@ An analytical and highly disciplined technical professional transitioning a **9-
 ## 🛡️ Current Security Objectives
 * 🎓 **MSc Computer Science** | Actively specializing in network security, smart contract vulnerabilities, and cryptographic structures.
 * ⚡ **Practical Penetration Testing** | Intensively preparing for practical offensive security certifications (PT1).
-* 🎯 **The Streak** | 190+ consecutive days of active security labs, network exploitation, and CTF rooms.
+* 🎯 **The Streak** | 220+ consecutive days of active security labs, network exploitation, and CTF rooms.
 
 ---
 
