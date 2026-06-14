@@ -1,6 +1,6 @@
 # Hi, I'm Scott 👋
 
-### MSc Computer Science Student | Aspiring Cyber Security & Red Team Specialist
+### MSc Computer Science Student | Cyber Security & Red Team Specialist
 
 An analytical and highly disciplined technical professional transitioning a **9-year foundation in the UK Civil Service (DWP)** into advanced Cyber Security and Software Development. Currently maintaining a rigorous academic track toward an **MSc with Distinction** while engineering automated tools and tracking complex system vulnerabilities daily.
 
